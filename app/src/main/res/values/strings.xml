@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HeaderRecyclerViewAdapter</string>
+    <string name="app_test">HeaderRecyclerView</string>
+</resources>
